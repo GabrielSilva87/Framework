@@ -31,7 +31,7 @@ My PHP Framework is a lightweight and flexible framework that allows for rapid w
    ```bash
    apt update && apt upgrade
    pkg install git
-   git clone https://github.com/GabrielSilva87/framework.git
+   git clone https://github.com/GabrielSilva87/Framework.git
    cd framework
    composter install
    
