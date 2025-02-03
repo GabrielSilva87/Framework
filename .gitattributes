@@ -2,4 +2,4 @@
 *.sql linguist-language=sql
 *.ext lang
 *.php lang=php
-*.echo <php>
+*.echo php
