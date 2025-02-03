@@ -31,4 +31,11 @@ My PHP Framework is a lightweight and flexible framework that allows for rapid w
    ```bash
    git clone https://github.com/GabrielSilva87/framework.git
    cd framework
-   composter install 
+   composter install
+   
+## Contact
+
+For questions, suggestions, or feedback, please reach out:
+
+- **Email**: [gabri2012mi@gmail.com](mailto:gabri2012mi@gmail.com)
+- **Profile**: [GabrielSilva87's GitHub Profile](https://github.com/GabrielSilva87)
