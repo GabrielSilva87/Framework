@@ -1,0 +1,10 @@
+PHP=7.4+
+ServidorWeb=Apache/Nginx
+mod_rewrite=habilitado
+BancoDeDados=MySQL/PostgreSQL/SQLite
+DriverPDO=habilitado
+Composer=instalado
+
+ExtensoesPHP=pdo, mbstring, openssl, curl
+ControleDeVersao=Git
+AmbienteDesenvolvimento=XAMPP/MAMP/Docker
